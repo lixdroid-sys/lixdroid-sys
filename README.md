@@ -1,3 +1,8 @@
+
+<h1>Hello World!,I'm lixdroid-sys</hi>
+
+<h2>A Passionate Tech Enthusiast </h2>
+
 # 💫 About Me:
 🔭 I’m currently working on Bash<br>👯 I’m looking to collaborate on Python<br>🤝 I’m looking for help with Tech<br>🌱 I’m currently learning Python<br>💬 Ask me about Devops<br>⚡ Fun fact A command-line wizard 🚀😆
 
