@@ -5,13 +5,11 @@
 
 <div align="center">
 <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="100px />
-  </div>
-  
+</div>
+<br>   
+<h1 align="center">A Passionate Tech Enthusiast   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 <br>
-
-<h2>A Passionate Tech Enthusiast </h2>
-
-<h1 align="center"> About Me <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/eye-one-eye-blink.gif" width="25px" height="35px"></h1>
+<h1 align="center"> About Me 👁️</h1>
 
 
 ```zsh
