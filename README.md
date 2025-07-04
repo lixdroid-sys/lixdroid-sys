@@ -34,14 +34,13 @@ Telegram : @Server Error.
 <br>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sparrow2895) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codel.ess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/code-less-62797b340) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/fool-lab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeless0.in@gmail.com) 
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,python,bash,c,mysql,html,css,javascript,react,neovim,npm" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,arch,vim,docker,linux,vscode,powershell,obsidian,vscodium," /><br>
+    <img src="https://skillicons.dev/icons?i=aws,python,bash,c,mysql,html,css,javascript,react,neovim," />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vim,docker,linux,vscode,powershell,obsidian,vscodium," /><br>
 </div>
 
 
@@ -55,6 +54,15 @@ Telegram : @Server Error.
 </div>
 <br>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/codeless0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeless0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/code-less-62797b340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-less-62797b340" height="30" width="40" /></a> 
+<a href="https://instagram.com/codel.ess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codel.ess" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/code_less_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_less_00" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/codeless0_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codeless0_in" height="30" width="40" /></a>
+
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -65,8 +73,17 @@ Telegram : @Server Error.
 
 ![snake gif](https://github.com/lixdroid-sys/lixdroid-sys/blob/output/github-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lixdroid-sys/lixdroid-sys/output/pacman-contribution-graph.svg">
+</picture>
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@sparrow160) 
+
+
+
 
 
 
