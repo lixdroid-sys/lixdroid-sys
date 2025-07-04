@@ -1,7 +1,7 @@
-
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=500&pause=1000&color=F7EAEC&width=435&lines=HELLO+WORLD!;I'M+LIXDROID+%F0%9F%9A%80" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&weight=800&size=34&duration=500&pause=1000&color=F3F7E7&width=435&lines=HELLO+WORLD!+++WELCOME;I'M+LIXDROID++%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
+<br>
 
 <div align="center">
 <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="100px />
