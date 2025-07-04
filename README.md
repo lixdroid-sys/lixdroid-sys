@@ -1,6 +1,7 @@
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&weight=800&size=34&duration=500&pause=1000&color=F3F7E7&width=435&lines=HELLO+WORLD!+++WELCOME;I'M+LIXDROID++%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&weight=800&size=34&duration=500&pause=1000&color=F3F7E7&width=435&lines=HELLO+WORLD!+++WELCOME;I'M+LIXDROID++%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
+
 <br>
 
 <div align="center">
@@ -11,10 +12,10 @@
 <br>
 <h1 align="center"> About Me 👁️</h1>
 
-
 ```zsh
 > 📟 neofetch
 ```
+
 <img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="120px"/> 
 
 ```csharp
@@ -31,9 +32,6 @@ Telegram : @Server Error.
 ```
 <br>
 
-
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -45,14 +43,14 @@ Telegram : @Server Error.
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
-  <a href="https://github.com/lixdroid-sys"><img alt="Lixdroid's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lixdroid-sys&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
-  <a href="https://github.com/lixdroid-sys"><img alt="YT-Advanced's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixdroid-sys&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/lixdroid-sys"><img alt="YT-Advanced's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lixdroid-sys&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+<a href="https://github.com/lixdroid-sys"><img alt="Lixdroid's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lixdroid-sys&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+<a href="https://github.com/lixdroid-sys"><img alt="YT-Advanced's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixdroid-sys&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/lixdroid-sys"><img alt="YT-Advanced's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lixdroid-sys&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
 </p>
 </div>
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/codeless0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codeless0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/code-less-62797b340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-less-62797b340" height="30" width="40" /></a> 
@@ -66,6 +64,7 @@ Telegram : @Server Error.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=lixdroid-sys&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
