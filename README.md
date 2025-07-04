@@ -23,15 +23,14 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Lixdroid.
-WhoamI: High School Student 🏫.
-Gender: Male.
-Location: DongNai, VietNam.
-Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
-Hobbies: Gaming, Coding ,Music 🎶,CustomRom.
-Languages: Bash, CPlusPlus, CSharp, Python, NodeJS, Java, Kotlin.
-Learning: Computer Science.
-Telegram: @Server Error.
+Name     : Lixdroid-sys.
+WhoamI   : College Student.
+Gender   : Male.
+Loves    : Videogames 🎮,Technology stuff 🚀, Books 📚.
+Hobbies  : Gaming, Coding,listening Music,Flashing CustomRom .
+Languages: Bash,Python,C,C++,Java,Javascript.
+Learning : Computer Science.
+Telegram : @Server Error.
 ```
 
 
