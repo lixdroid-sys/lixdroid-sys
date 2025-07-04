@@ -18,7 +18,7 @@
 > 📟 neofetch
 ```
 
-<img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="155px"/> 
+<img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="120px"/> 
 
 ```csharp
 My Profile
