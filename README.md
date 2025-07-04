@@ -7,7 +7,7 @@
 <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="100px />
   </div>
   
-
+<br>
 
 <h2>A Passionate Tech Enthusiast </h2>
 
@@ -17,7 +17,6 @@
 ```zsh
 > 📟 neofetch
 ```
-
 <img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="120px"/> 
 
 ```csharp
@@ -32,6 +31,7 @@ Languages: Bash,Python,C,C++,Java,Javascript.
 Learning : Computer Science.
 Telegram : @Server Error.
 ```
+<br>
 
 
 ## 🌐 Socials:
