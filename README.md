@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="100px />
+<img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="1000px />
 </div>
 <br>   
 <h1 align="center">A Passionate Tech Enthusiast   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
@@ -16,21 +16,22 @@
 > 📟 neofetch
 ```
 
-<img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="155px"/> 
-
-```csharp
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img align="left" src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/Cyberpunk%20Dream%20-%20Merch.gif" width="155px" alt="Profile GIF" />
+  <pre style="margin: 0; font-size: 14px;">
 My Profile
 -------------------------------
 Name     : Lixdroid-sys.
 WhoamI   : College Student.
 Gender   : Male.
-Loves    : Videogames 🎮,Technology stuff 🚀, Books 📚.
-Hobbies  : Gaming, Coding,listening Music,Flashing CustomRom .
-Languages: Bash,Python,C,C++,Java,Javascript.
+Loves    : Videogames 🎮, Technology stuff 🚀, Books 📚.
+Hobbies  : Gaming, Coding, Listening Music, Flashing Custom ROM.
+Languages: Bash, Python, C, C++, Java, JavaScript.
 Learning : Computer Science.
 Telegram : @Server Error.
-```
-<br>
+  </pre>
+</div>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
