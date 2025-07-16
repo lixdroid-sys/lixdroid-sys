@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="1000px />
+<img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/_.gif"  width="1000px" height="100px />
 </div>
 <br>   
 <h1 align="center">A Passionate Tech Enthusiast   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
