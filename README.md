@@ -48,11 +48,6 @@ Learning : Computer Science 💻
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
-<a href="https://github.com/lixdroid-sys"><img src="https://github-readme-stats.vercel.app/api?username=lixdroid-sys&show_icons=true&theme=material-palenight" />
-</a> 
-<a href="https://github.com/lixdroid-sys"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixdroid-sys&layout=compact&theme=material-palenight" />
-</a>
-
 <a href="https://github.com/lixdroid-sys"><img alt="Lixdroid's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lixdroid-sys&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
 </p>
 </div>
