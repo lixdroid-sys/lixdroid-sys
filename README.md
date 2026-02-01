@@ -71,6 +71,7 @@ Learning : Computer Science 💻
 <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/0.gif" />
 </div>
 <!-- This section is for the view counter -->
+<!-- THANK YOU FOR WATCHING -->
 <div>
 <h2 align="center">View Counter <img src="https://github.com/lixdroid-sys/lixdroid-sys/blob/main/images/7.gif" width="35px" height="35px"></h2>
 <div align="center">
